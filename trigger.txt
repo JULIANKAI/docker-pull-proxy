@@ -1,1 +1,2 @@
 mwader/static-gm:1.3.38 registry.cn-hangzhou.aliyuncs.com/bortrong/static-gm:1.3.38
+openjdk:8-jre registry.cn-hangzhou.aliyuncs.com/bortrong/openjdk:8-jre
