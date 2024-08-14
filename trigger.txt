@@ -8,6 +8,5 @@ redis-commander:0.8.0 registry.cn-hangzhou.aliyuncs.com/bortrong/redis-commander
 nginx:1.25.1 registry.cn-hangzhou.aliyuncs.com/bortrong/nginx:1.25.1
 portainer/portainer:latest registry.cn-hangzhou.aliyuncs.com/bortrong/portainer:latest
 alpine:3.18.2 registry.cn-hangzhou.aliyuncs.com/bortrong/alpine:3.18.2
-phpmyadmin:5.2.1 registry.cn-hangzhou.aliyuncs.com/bortrong/phpmyadmin:5.2.1
 redis:6.2 registry.cn-hangzhou.aliyuncs.com/bortrong/redis:6.2
 spryker/redis-commander:0.8.0 registry.cn-hangzhou.aliyuncs.com/bortrong/spryker/redis-commander:0.8.0
