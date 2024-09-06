@@ -12,3 +12,4 @@ logstash:7.14.2 registry.cn-hangzhou.aliyuncs.com/bortrong/logstash:7.14.2
 spryker/redis-commander:0.8.0 registry.cn-hangzhou.aliyuncs.com/bortrong/redis-commander:0.8.0
 node:18-alpine registry.cn-hangzhou.aliyuncs.com/bortrong/node:18-alpine
 library/registry:latest registry.cn-hangzhou.aliyuncs.com/bortrong/registry:latest
+rabbitmq:3.12.9 registry.cn-hangzhou.aliyuncs.com/bortrong/rabbitmq:3.12.9
