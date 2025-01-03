@@ -14,3 +14,4 @@ node:18-alpine registry.cn-hangzhou.aliyuncs.com/bortrong/node:18-alpine
 library/registry:latest registry.cn-hangzhou.aliyuncs.com/bortrong/registry:latest
 rabbitmq:3.12.9 registry.cn-hangzhou.aliyuncs.com/bortrong/rabbitmq:3.12.9
 centos:7 registry.cn-hangzhou.aliyuncs.com/bortrong/centos:7
+dperson/samba:latest registry.cn-hangzhou.aliyuncs.com/bortrong/dperson/samba:latest
