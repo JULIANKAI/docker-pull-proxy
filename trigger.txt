@@ -16,4 +16,4 @@ rabbitmq:3.12.9 registry.cn-hangzhou.aliyuncs.com/bortrong/rabbitmq:3.12.9
 centos:7 registry.cn-hangzhou.aliyuncs.com/bortrong/centos:7
 dperson/samba:latest registry.cn-hangzhou.aliyuncs.com/bortrong/samba:latest
 minio/minio:latest registry.cn-hangzhou.aliyuncs.com/bortrong/minio:latest
-emby/embyserver:lstest registry.cn-hangzhou.aliyuncs.com/bortrong/emby/embyserver:lstest
+emby/embyserver:lstest registry.cn-hangzhou.aliyuncs.com/bortrong/embyserver:lstest
