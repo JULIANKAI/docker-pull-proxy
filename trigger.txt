@@ -17,3 +17,4 @@ centos:7 registry.cn-hangzhou.aliyuncs.com/bortrong/centos:7
 dperson/samba:latest registry.cn-hangzhou.aliyuncs.com/bortrong/samba:latest
 minio/minio:latest registry.cn-hangzhou.aliyuncs.com/bortrong/minio:latest
 emby/embyserver:latest registry.cn-hangzhou.aliyuncs.com/bortrong/embyserver:latest
+openjdk:17-jdk registry.cn-hangzhou.aliyuncs.com/bortrong/openjdk:17-jdk
